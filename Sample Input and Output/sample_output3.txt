@@ -1,0 +1,6 @@
+
+**************
+**  SUDOKU  **
+**************
+
+ERROR: bad input value, Sudoku terminating
